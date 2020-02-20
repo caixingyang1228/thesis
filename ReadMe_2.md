@@ -1,4 +1,4 @@
-
+![enter image description here](https://github.com/caixingyang1228/thesis/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-02-20%20%E4%B8%8B%E5%8D%886.45.30.png?raw=true)
 **Database Positioning:**
 
 Establish a database based on some important and specific academic classification methods in contemporary art, and further establish a more efficient and transparent art-related search and research platform.
